@@ -16,3 +16,7 @@ creates an exception list emailed to a group of administrators.
 This program takes hours to run, so it is automatically run a 9 PM twice per week. 
 It has reduced the support desk tickets, but more importantly the user frustration and 
 what was perceived as the intermittent nature of Expressway registrations.
+
+Language: python
+Technology Stack: Collaboration, Expressway, CUCM, Jabber
+
